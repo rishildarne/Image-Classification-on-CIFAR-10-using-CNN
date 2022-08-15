@@ -32,4 +32,5 @@ b.	The loss on validation data is 0.5666 and the classification accuracy on vali
 
 Although both models correctly predicted the input image, the modified model has a higher score and is more reliable, as evidenced by the classification accuracy scores of both models. This could be improved even more by tweaking the CNN. This tweaking may include adding more convolutional layers, modifying hyperparameters, adding dense layers, etc. With the CIFAR-10 dataset, existing models such as ViT-H/14, CaiT-M-36 U224, CvT-W24, and many others have already achieved 99 percent or higher accuracy
 
+> Copyright 2022 Rishil Darne
 
