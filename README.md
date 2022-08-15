@@ -14,5 +14,6 @@ The goal is to use the CIFAR-10 dataset to train a Convolutional Neural Network 
 
 <img width="559" alt="image" src="https://user-images.githubusercontent.com/101949683/184738975-402b74a0-aeb6-4e91-a48b-035dd3b16010.png">
 
-Image prediction
+> Image prediction
+
 <img width="293" alt="image" src="https://user-images.githubusercontent.com/101949683/184739167-74c2b413-7184-424b-b8e0-3082f725c382.png">
