@@ -17,3 +17,19 @@ The goal is to use the CIFAR-10 dataset to train a Convolutional Neural Network 
 > Image prediction
 
 <img width="293" alt="image" src="https://user-images.githubusercontent.com/101949683/184739167-74c2b413-7184-424b-b8e0-3082f725c382.png">
+
+> Key Findings
+
+1.	For the Basic Implementation of the CNN model for Image Classification:
+a.	After 10 epochs, the loss on training data is 0.7341, and classification accuracy on training data is 74.5%
+b.	The loss on validation data is 0.9757 and the classification accuracy on validation data is 66.53%
+2.	For the Modified Implementation of the CNN model for Image Classification:
+a.	After 30 epochs, the loss on training data is 0.4811, and classification accuracy on training data is 82.94%
+b.	The loss on validation data is 0.5666 and the classification accuracy on validation data is 80.72%
+3.	To test both the models, they were provided with an input image of an Aeroplane. Both were able to predict the label correctly as shown in the results.
+
+> Conclusion
+
+Although both models correctly predicted the input image, the modified model has a higher score and is more reliable, as evidenced by the classification accuracy scores of both models. This could be improved even more by tweaking the CNN. This tweaking may include adding more convolutional layers, modifying hyperparameters, adding dense layers, etc. With the CIFAR-10 dataset, existing models such as ViT-H/14, CaiT-M-36 U224, CvT-W24, and many others have already achieved 99 percent or higher accuracy
+
+
